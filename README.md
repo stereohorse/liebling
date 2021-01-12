@@ -18,7 +18,9 @@ You can see a live demo here: [https://liebling.eduardogomez.io](https://lieblin
 
 To get the latest version please head over the [releases page](https://github.com/eddiesigner/liebling/releases) and download the file `liebling.zip` of the latest release.
 
-**IMPORTANT: From now on, this theme is only compatible with Ghost 3+**
+**IMPORTANT: To know how to enable the search, comments, newsletter and more, please head to the [Wiki](https://github.com/eddiesigner/liebling/wiki).**
+
+From now on, this theme is only compatible with Ghost 3
 
 ## Features
 
@@ -35,6 +37,7 @@ To get the latest version please head over the [releases page](https://github.co
 * Subscription form [more info here](https://github.com/eddiesigner/liebling/wiki/How-to-enable-subscribers)
 * Multiple authors
 * Logo support
+* Secondary menu
 * Featured posts and pages
 * Post, Page, Tag, Authors, pages
 * Koenig editor
@@ -84,9 +87,12 @@ To get the latest version please head over the [releases page](https://github.co
 * Turkish by [mskoroglu](https://github.com/mskoroglu)
 * Romanian by [dsecareanu](https://github.com/dsecareanu)
 * Chinese Simplified by [IvyB](https://github.com/IvyB)
-* Indonesian by [iqbalbinsb](https://github.com/iqbalbinsb)
+* Indonesian by [iqbalbinsb](https://github.com/iqbalbinsb), [khannedy](https://github.com/khannedy)
 * Lithuanian by [pintom](https://github.com/pintom)
 * Dutch by [Qballjos](https://github.com/Qballjos)
+* Traditional Chinese by [weixiang](https://github.com/weixiang)
+* Persian (Farsi) by [Aminoiz](https://github.com/Aminoiz)
+* Ukrainian by [partizan007](https://github.com/partizan007)
 
 ## Tests performed
 
@@ -104,13 +110,17 @@ Please take a look to this page to see how it works: https://github.com/eddiesig
 
 ## Help and Support
 
-To know how to enable the search, comments, subscribers and more, please head to the [Wiki](https://github.com/eddiesigner/liebling/wiki).
-
 If you have any questions or troubles with this product, please feel free to open an issue [here](https://github.com/eddiesigner/liebling/issues).
+
+## Contributing
+
+Contributions are very welcome. First, please read the [Pull Request Guidelines](https://github.com/eddiesigner/liebling/wiki/Pull-Request-Guidelines) on the wiki.
 
 ## Related
 
-* [Weiss Pro](https://blog.eduardogomez.io/weiss-pro-modern-and-clean-ghost-theme/) - Modern and beautiful Ghost theme ready to make your content shine ✨
+* [Firma](https://gum.co/ZXLha) - Ghost theme that can be used by startups to large companies to publish any kind of articles related to their business. It stands out for its clean design and is able to adapt to any company's identity.
+
+* [Weiss Pro](https://eduardogomez.io/weiss-pro/) - Modern and beautiful Ghost theme ready to make your content shine.
 
 ## License
 
